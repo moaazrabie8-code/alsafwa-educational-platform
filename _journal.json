@@ -1,0 +1,76 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1787446896110,
+      "tag": "0000_absent_sister_grimm",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1787447071202,
+      "tag": "0001_empty_shinobi_shaw",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1787448711085,
+      "tag": "0002_tricky_tarantula",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1787454542931,
+      "tag": "0003_square_vin_gonzales",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1787458221176,
+      "tag": "0004_little_mentallo",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1787459715480,
+      "tag": "0005_warm_marvel_apes",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "5",
+      "when": 1787469443357,
+      "tag": "0006_late_ulik",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "5",
+      "when": 1787507669435,
+      "tag": "0007_normal_wither",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "5",
+      "when": 1787514868827,
+      "tag": "0008_cynical_medusa",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "5",
+      "when": 1787517295678,
+      "tag": "0009_cheerful_doctor_doom",
+      "breakpoints": true
+    }
+  ]
+}

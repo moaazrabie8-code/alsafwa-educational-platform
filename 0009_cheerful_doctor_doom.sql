@@ -1,0 +1,1 @@
+ALTER TABLE `teaching_groups` MODIFY COLUMN `teacherUserId` int;
